@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: The Eighties
+    chapters:
+    - file: "1980"
+  - caption: The Nineties
+    chapters:
+    - file: "1990"
+  # - caption: The 2000
+  #   chapters:
+  #   - file: 2000
+   
