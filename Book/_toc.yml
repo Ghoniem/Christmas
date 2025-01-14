@@ -3,14 +3,9 @@
 
 format: jb-book
 root: intro
-parts:
-  - caption: The Eighties
-    chapters:
-    - file: "1980"
-  - caption: The Nineties
-    chapters:
-    - file: "1990"
-  - caption: The 2000
-    chapters:
-    - file: "2000"
-   
+chapters:
+- file: "1980"
+- file: "1990" 
+- file: "2000"
+- file: "2010"
+- file: "2020"
