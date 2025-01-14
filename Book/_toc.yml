@@ -10,7 +10,7 @@ parts:
   - caption: The Nineties
     chapters:
     - file: "1990"
-  # - caption: The 2000
-  #   chapters:
-  #   - file: 2000
+  - caption: The 2000
+    chapters:
+    - file: "2000"
    
